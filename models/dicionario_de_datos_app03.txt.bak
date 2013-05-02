@@ -1,0 +1,35 @@
+Diccionario de Datos
+A.
+arc_id = {Numerico}
+arc_nombre = {Alfanumerico}
+Archivo = @arc_id+arc_nombre
+Alfanumerico= {Letras|Numerico} 
+
+D.
+Decimal= {Numerico} + " , " + 2{Numerico}2
+
+
+L.
+Letras= [A-Z | a-z | |]
+
+N.
+Numerico= [0-9]
+
+P.
+prg_descripcion = {Alfanumerico}
+prg_id = {Numerico}
+pa_modo = {Letras}
+Programa = @prg_id+prg_descripcion
+ProgramaArchivo = @prg_id+@arc_id+pa_modo
+
+S.
+stm_id={Numerico}
+stm_nombre={Alfanumerico}
+sp_frecuencia = {Decimal}
+Sistema = @stm_id+stm_nombre
+SistemaPrograma = @stm_id+@prg_id+sp_frecuencia
+
+
+
+
+

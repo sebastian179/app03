@@ -1,0 +1,15 @@
+INTEGRANTES:
+
+SEBASTIAN MARQUEZ
+IGNACIO ARCE
+
+FUNCIONES EN EL TRABAJO:
+
+INGACIO ARCE:
+- Diccionario de datos
+- DER
+
+SEBASTIAN MARQUEZ
+- generacion de modelo de datos y der en Enterprise Architect
+- generacion de clases java a partir de modelo de datos con Enterprise Architect
+- compilacion de clases java

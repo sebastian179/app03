@@ -1,0 +1,21 @@
+INTEGRANTES:
+
+SEBASTIAN MARQUEZ
+IGNACIO ARCE
+
+FUNCIONES EN EL TRABAJO:
+
+INGACIO ARCE:
+- Diccionario de datos
+- DER
+
+SEBASTIAN MARQUEZ
+- generacion de modelo de datos y der en Enterprise Architect
+- generacion de clases java a partir de modelo de datos con Enterprise Architect
+- compilacion de clases java
+
+Problemas que surgieron:
+
+- no pude hacer la compilacion con javac en entorno d.o.s. cuando un atributo de una clase es un objeto.
+- no pude hacer la lineas de cardinalidad en el der con Enterprise Architect, 
+solo dejé unas lineas rectas indicando que las entidades que estan relacionadas entre si.
